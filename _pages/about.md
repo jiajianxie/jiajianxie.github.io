@@ -19,7 +19,7 @@ redirect_from:
 
 ## About Me
 
-I am a Master’s student at <a href="https://www.zju.edu.cn/english/"><strong>Zhejiang University</strong>, advised by 
+I am a Master’s student at <a href="https://www.zju.edu.cn/english/"><strong>Zhejiang University</strong></a>, advised by 
 <a href="https://person.zju.edu.cn/shengyuzhang"><strong>Prof. Shengyu Zhang</strong></a>. 
 My research focuses on <strong>3D content generation</strong> and <strong>efficient inference for visual generative models</strong>.
 
