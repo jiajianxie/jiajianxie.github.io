@@ -25,7 +25,6 @@ My research focuses on <strong>3D content generation</strong> and <strong>effici
 
 Specifically, I work on <strong>Speech-driven Talking Face</strong> & <strong>Text/Image-to-3D Generation</strong>, 
 as well as <strong>Step Distillation</strong> & <strong>Training-free Acceleration Methods</strong> for Diffusion and Visual Autoregressive (VAR) models. 
-{% I have published some papers with total google scholar citations <a href='https://scholar.google.com/citations?user=SnxhOBYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. %}
 
 My goal is to make <strong>high-fidelity visual generation</strong>—spanning <strong>3D, images, and video</strong>—
 more practical and efficient for <strong>real-world and real-time applications</strong>.
