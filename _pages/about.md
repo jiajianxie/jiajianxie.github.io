@@ -46,9 +46,11 @@ more practical and efficient for <strong>real-world and real-time applications</
 </div>
 
 - <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [ETC: training-free diffusion models acceleration with Error-aware Trend Consistency](https://arxiv.org/pdf/2510.24129). 
+  
   **Jiajian Xie**, Hubery Yin, Chen Li, Zhou Zhao, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models](https://arxiv.org/pdf/2507.11980).  
+  
   **Jiajian Xie**, Shengyu Zhang, Zhou Zhao, Fan Wu, Fei Wu
 
 
@@ -57,7 +59,7 @@ more practical and efficient for <strong>real-world and real-time applications</
 - *2023.10*, National Scholarship (P.R. China)​.
 
 # 📖 Educations
-- *2024.09 - 2027.06*, Master, Software Engineering, Institute of Artificial Intelligence, Zhejiang University.
+- *2024.09 - 2027.06*, Master, Artificial Intelligence, Zhejiang University.
 - *2020.09 - 2024.06*, Undergraduate, Electronic Business and Computer Science (Dual Degree), SouthChina University of Technology.
 
 # 💻 Internships
