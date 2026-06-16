@@ -38,16 +38,19 @@ more practical and efficient for <strong>real-world and real-time applications</
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ecoface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Ecoface: Audio-visual emotional co-disentanglement speech-driven 3d talking face generation](https://openreview.net/pdf?id=iDcWYtYUwX)
+[Ecoface: Audio-visual emotional co-disentanglement speech-driven 3d talking face generation](https://openreview.net/pdf?id=iDcWYtYUwX).
+
 **Jiajian Xie**, Shengyu Zhang, Mengze Li, Chengfei Lv, Zhou Zhao, Fei Wu
 
 </div>
 </div>
 
-- <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [ETC: training-free diffusion models acceleration with Error-aware Trend Consistency](https://arxiv.org/pdf/2510.24129).  
+- <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [ETC: training-free diffusion models acceleration with Error-aware Trend Consistency](https://arxiv.org/pdf/2510.24129). 
+
 **Jiajian Xie**, Hubery Yin, Chen Li, Zhou Zhao, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models](https://arxiv.org/pdf/2507.11980).  
+
 **Jiajian Xie**, Shengyu Zhang, Zhou Zhao, Fan Wu, Fei Wu
 
 
