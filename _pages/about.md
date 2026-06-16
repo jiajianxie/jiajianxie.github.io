@@ -53,8 +53,8 @@ more practical and efficient for <strong>real-world and real-time applications</
 
 
 # 🎖 Honors and Awards
-- *2025.10* National Scholarship (P.R. China)​.
-- *2023.10* National Scholarship (P.R. China)​.
+- *2025.10*, National Scholarship (P.R. China)​.
+- *2023.10*, National Scholarship (P.R. China)​.
 
 # 📖 Educations
 - *2024.09 - 2027.06*, Master, Software Engineering, Institute of Artificial Intelligence, Zhejiang University.
