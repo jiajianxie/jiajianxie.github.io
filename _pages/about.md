@@ -24,7 +24,8 @@ I am a Master’s student at <a href="https://www.zju.edu.cn/english/"><strong>Z
 My research focuses on <strong>3D content generation</strong> and <strong>efficient inference for visual generative models</strong>.
 
 Specifically, I work on <strong>Speech-driven Talking Face</strong> & <strong>Text/Image-to-3D Generation</strong>, 
-as well as <strong>Step Distillation</strong> & <strong>Training-free Acceleration Methods</strong> for Diffusion and Visual Autoregressive (VAR) models. I have published some papers with total google scholar citations <a href='https://scholar.google.com/citations?user=SnxhOBYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+as well as <strong>Step Distillation</strong> & <strong>Training-free Acceleration Methods</strong> for Diffusion and Visual Autoregressive (VAR) models. 
+{ %I have published some papers with total google scholar citations <a href='https://scholar.google.com/citations?user=SnxhOBYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. %}
 
 My goal is to make <strong>high-fidelity visual generation</strong>—spanning <strong>3D, images, and video</strong>—
 more practical and efficient for <strong>real-world and real-time applications</strong>.
@@ -46,12 +47,10 @@ more practical and efficient for <strong>real-world and real-time applications</
 </div>
 
 - <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [ETC: training-free diffusion models acceleration with Error-aware Trend Consistency](https://arxiv.org/pdf/2510.24129). 
-
-**Jiajian Xie**, Hubery Yin, Chen Li, Zhou Zhao, Shengyu Zhang
+  **Jiajian Xie**, Hubery Yin, Chen Li, Zhou Zhao, Shengyu Zhang
 
 - <a><img src="https://img.shields.io/badge/Arxiv-2025-red"></a> [EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models](https://arxiv.org/pdf/2507.11980).  
-
-**Jiajian Xie**, Shengyu Zhang, Zhou Zhao, Fan Wu, Fei Wu
+  **Jiajian Xie**, Shengyu Zhang, Zhou Zhao, Fan Wu, Fei Wu
 
 
 # 🎖 Honors and Awards
