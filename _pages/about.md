@@ -31,9 +31,20 @@ more practical and efficient for <strong>real-world and real-time applications</
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2026.
 - *2025.02*: &nbsp;🎉🎉 1 paper accepted to ICLR 2025.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/prunevar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PruneVAR: Training-Free Acceleration of Visual Autoregressive Modeling via Two-Stage Redundancy Reduction]().
+
+**Jiajian Xie**, Jie Yang, Shengyu Zhang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ecoface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
