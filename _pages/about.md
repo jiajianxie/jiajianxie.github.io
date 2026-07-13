@@ -36,7 +36,7 @@ more practical and efficient for <strong>real-world and real-time applications</
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/prunevar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/prunevar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PruneVAR: Training-Free Acceleration of Visual Autoregressive Modeling via Two-Stage Redundancy Reduction]().
